@@ -26,7 +26,7 @@ Décentralisation
 
 Monero est une monnaie communautaire qui n’est pas contrôlée par une autorité centrale.
 
-“Un smartphone avec Internet, et c’est parti !”
+“Un smartphone et une connexion Internet, et c’est parti !” [//]: # (Following hundehausen sugestion)
 
 ---
 
